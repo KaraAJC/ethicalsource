@@ -60,3 +60,7 @@ languageCode = "pt-br"
 [Languages.de]
 languageName = "Deutsch"
 languageCode = "de"
+
+[Languages.tl]
+languageName = "Tagalog"
+languageCode = "tl"
